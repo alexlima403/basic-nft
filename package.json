@@ -4,6 +4,10 @@
   "description": "Basic NFT contract with Hardhat",
   "author": "Alexandre Lima",
   "license": "MIT",
+  "scripts": {
+    "typechain": "hardhat typechain",
+    "test": "hardhat test"
+  },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.6",
     "@nomiclabs/hardhat-etherscan": "^3.0.4",
@@ -36,6 +40,7 @@
     "prettier-plugin-solidity": "^1.0.0-beta.13",
     "solhint": "^3.3.7",
     "solidity-coverage": "^0.7.21",
+    "ts-node": "^10.9.1",
     "typechain": "^5.2.0",
     "typescript": "^4.7.3"
   }
