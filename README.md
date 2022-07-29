@@ -1,4 +1,7 @@
-# Basic NFT Hardhat Project
+# Basic NFT Hardhat 
+
+[![Hardhat Tests](https://github.com/alexlima403/basic-nft/actions/workflows/hardhat.yml/badge.svg)](https://github.com/alexlima403/basic-nft/actions/workflows/hardhat.yml)
+
 ```shell
 /////////////////////////////////////////////////////
 //  ____            _        _   _ ______ _______  //
