@@ -1,6 +1,20 @@
-# Basic NFT Hardhat 
+# Basic NFT Hardhat  
+
+<a href="https://soliditylang.org/">
+   <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/>
+</a>
+<a href="https://hardhat.org/">
+   <img align="left" alt="Hardhat" width="40px" height="30px" style="padding-right:10px;" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+</a>
+
+<br /><br />
+
 
 [![Hardhat Tests](https://github.com/alexlima403/basic-nft/actions/workflows/hardhat.yml/badge.svg)](https://github.com/alexlima403/basic-nft/actions/workflows/hardhat.yml)
+
 
 ```shell
 /////////////////////////////////////////////////////
@@ -12,6 +26,8 @@
 // |____/ \__,_|___/_|\___| |_| \_|_|       |_|    //
 /////////////////////////////////////////////////////
 ```
+
+
 This project contains a basic NFT contract, built with saving gas costs and security in mind.
 Built on the advanced Hardhat Typescript template, it contains tests and utilities for code safety
 and extra functionalities.
