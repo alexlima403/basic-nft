@@ -1,4 +1,4 @@
-# Basic NFT Hardhat  
+# Basic Solidity NFT with Hardhat  
 
 <a href="https://soliditylang.org/">
    <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/>
